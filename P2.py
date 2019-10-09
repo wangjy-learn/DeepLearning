@@ -5,7 +5,9 @@ import glob
 from skimage.measure import block_reduce
 
 
-__myos__="linux"
+
+
+__myos__="win"
 
 a=np.random.rand(30)
 print(a)
